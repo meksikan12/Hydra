@@ -1,0 +1,57 @@
+body {
+  background: #302c42;
+  color: #ffffff;
+}
+.header {
+  height: 800px;
+  background: #302c42;
+}
+.head_logo img {
+  margin-left: 10px;
+  margin-top: 35px;
+}
+.navbar ul {
+  list-style-type: none;
+  display: flex;
+}
+.navbar a {
+  font-family: "Montserrat";
+  margin-left: 30px;
+  color: #ffffff;
+  font-size: 12px;
+  font-weight: 700;
+}
+.navbar {
+  margin-left: 300px;
+  margin-top: -60px;
+}
+.contact_us {
+  border: 2px solid #ffffff;
+  border-radius: 40px;
+  width: 154px;
+  height: 48px;
+  margin-left: 900px;
+  margin-top: -80px;
+}
+.contact_us p {
+  font-family: "Montserrat";
+  color: #ffffff;
+  font-size: 12px;
+  font-weight: 700;
+  padding: 13px 34px;
+}
+.join_hydra {
+    background: linear-gradient(90deg, #8176AF 0%, #C0B7E8 100%);
+    border-radius: 40px;
+    width: 154px;
+    height: 48px;
+    margin-left: 1100px;
+    margin-top: -50px;
+}
+.join_hydra p{
+    font-family: "Montserrat";
+    color: #343045;
+    font-size: 12px;
+    font-weight: 700;
+    padding: 13px 34px;
+}
